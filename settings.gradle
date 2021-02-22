@@ -1,0 +1,2 @@
+include ':ECR-Intent-Android'
+rootProject.name = "ECR_demo2"
